@@ -1,0 +1,489 @@
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>    MODULES NAME: ntw		>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+>----------------------->------------------------------->
+  LIST_NEURONS:		>	List of Neurons		>
+>.......................>...............................>
+	10_1            >	Neuron's name		>
+	10_closed.neu   >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_10           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_2            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_3            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_4            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_5            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_6            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_7            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_8            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10_9            >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	green           >	Color Name		>
+>.......................>...............................>
+	10a_1           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_10          >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_2           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_3           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_4           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_5           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_6           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_7           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_8           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10a_9           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	gold            >	Color Name		>
+>.......................>...............................>
+	10b_1           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_10          >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_2           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_3           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_4           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_5           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_6           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_7           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_8           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10b_9           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	purple          >	Color Name		>
+>.......................>...............................>
+	10c_1           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_10          >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_2           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_3           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_4           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_5           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_6           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_7           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_8           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10c_9           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	pink            >	Color Name		>
+>.......................>...............................>
+	10d_1           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_10          >	Neuron's name		>
+	10_closed.neu   >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_2           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_3           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_4           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_5           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_6           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_7           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_8           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	10d_9           >	Neuron's name		>
+	10_open.neu     >	File Name		>
+	cyan            >	Color Name		>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+>----------------------->------------------------------->
+  LIST_CELLS:		>	Cells	>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+>----------------------->------------------------------->
+  CHEMSYN:		>	Chemical synapse	>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+>----------------------->------------------------------->
+  ELCTRCPL:		>	Electrical coupling	>
+>.......................>...............................>
+	10_9            > Name of postsynaptic neuron	>
+	10_10           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10a_1           > Name of postsynaptic neuron	>
+	10_10           > Name of presynaptic neuron	>
+	elsyn.es        > File Name			>
+	red             > Color Name			>
+>.......................>...............................>
+	10_1            > Name of postsynaptic neuron	>
+	10_2            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_2            > Name of postsynaptic neuron	>
+	10_3            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_3            > Name of postsynaptic neuron	>
+	10_4            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_4            > Name of postsynaptic neuron	>
+	10_5            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_5            > Name of postsynaptic neuron	>
+	10_6            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_6            > Name of postsynaptic neuron	>
+	10_7            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_7            > Name of postsynaptic neuron	>
+	10_8            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10_8            > Name of postsynaptic neuron	>
+	10_9            > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	green           > Color Name			>
+>.......................>...............................>
+	10a_2           > Name of postsynaptic neuron	>
+	10a_1           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10b_1           > Name of postsynaptic neuron	>
+	10a_10          > Name of presynaptic neuron	>
+	elsyn.es        > File Name			>
+	red             > Color Name			>
+>.......................>...............................>
+	10a_3           > Name of postsynaptic neuron	>
+	10a_2           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_4           > Name of postsynaptic neuron	>
+	10a_3           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_5           > Name of postsynaptic neuron	>
+	10a_4           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_6           > Name of postsynaptic neuron	>
+	10a_5           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_7           > Name of postsynaptic neuron	>
+	10a_6           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_8           > Name of postsynaptic neuron	>
+	10a_7           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_9           > Name of postsynaptic neuron	>
+	10a_8           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10a_10          > Name of postsynaptic neuron	>
+	10a_9           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	gold            > Color Name			>
+>.......................>...............................>
+	10b_2           > Name of postsynaptic neuron	>
+	10b_1           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10c_1           > Name of postsynaptic neuron	>
+	10b_10          > Name of presynaptic neuron	>
+	elsyn.es        > File Name			>
+	red             > Color Name			>
+>.......................>...............................>
+	10b_3           > Name of postsynaptic neuron	>
+	10b_2           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_4           > Name of postsynaptic neuron	>
+	10b_3           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_5           > Name of postsynaptic neuron	>
+	10b_4           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_6           > Name of postsynaptic neuron	>
+	10b_5           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_7           > Name of postsynaptic neuron	>
+	10b_6           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_8           > Name of postsynaptic neuron	>
+	10b_7           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_9           > Name of postsynaptic neuron	>
+	10b_8           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10b_10          > Name of postsynaptic neuron	>
+	10b_9           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	purple          > Color Name			>
+>.......................>...............................>
+	10c_2           > Name of postsynaptic neuron	>
+	10c_1           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10d_1           > Name of postsynaptic neuron	>
+	10c_10          > Name of presynaptic neuron	>
+	elsyn.es        > File Name			>
+	red             > Color Name			>
+>.......................>...............................>
+	10c_3           > Name of postsynaptic neuron	>
+	10c_2           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_4           > Name of postsynaptic neuron	>
+	10c_3           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_5           > Name of postsynaptic neuron	>
+	10c_4           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_6           > Name of postsynaptic neuron	>
+	10c_5           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_7           > Name of postsynaptic neuron	>
+	10c_6           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_8           > Name of postsynaptic neuron	>
+	10c_7           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_9           > Name of postsynaptic neuron	>
+	10c_8           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10c_10          > Name of postsynaptic neuron	>
+	10c_9           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	pink            > Color Name			>
+>.......................>...............................>
+	10d_2           > Name of postsynaptic neuron	>
+	10d_1           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_3           > Name of postsynaptic neuron	>
+	10d_2           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_4           > Name of postsynaptic neuron	>
+	10d_3           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_5           > Name of postsynaptic neuron	>
+	10d_4           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_6           > Name of postsynaptic neuron	>
+	10d_5           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_7           > Name of postsynaptic neuron	>
+	10d_6           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_8           > Name of postsynaptic neuron	>
+	10d_7           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_9           > Name of postsynaptic neuron	>
+	10d_8           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	10d_10          > Name of postsynaptic neuron	>
+	10d_9           > Name of presynaptic neuron	>
+	axon.es         > File Name			>
+	cyan            > Color Name			>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+>----------------------->------------------------------->
+  MODULSYN:		>	Modulatory synapse	>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+>----------------------->------------------------------->
+  WEIGHT:		>	Weights	>
+>.......................>...............................>
+	END		>				>
+>----------------------->------------------------------->
+
+END

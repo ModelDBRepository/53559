@@ -1,0 +1,101 @@
+NEURONS
+10_1 10_closed.neu green
+10_10 10_open.neu green
+10_2 10_open.neu green
+10_3 10_open.neu green
+10_4 10_open.neu green
+10_5 10_open.neu green
+10_6 10_open.neu green
+10_7 10_open.neu green
+10_8 10_open.neu green
+10_9 10_open.neu green
+10a_1 10_open.neu gold
+10a_10 10_open.neu gold
+10a_2 10_open.neu gold
+10a_3 10_open.neu gold
+10a_4 10_open.neu gold
+10a_5 10_open.neu gold
+10a_6 10_open.neu gold
+10a_7 10_open.neu gold
+10a_8 10_open.neu gold
+10a_9 10_open.neu gold
+10b_1 10_open.neu purple
+10b_10 10_open.neu purple
+10b_2 10_open.neu purple
+10b_3 10_open.neu purple
+10b_4 10_open.neu purple
+10b_5 10_open.neu purple
+10b_6 10_open.neu purple
+10b_7 10_open.neu purple
+10b_8 10_open.neu purple
+10b_9 10_open.neu purple
+10c_1 10_open.neu pink
+10c_10 10_open.neu pink
+10c_2 10_open.neu pink
+10c_3 10_open.neu pink
+10c_4 10_open.neu pink
+10c_5 10_open.neu pink
+10c_6 10_open.neu pink
+10c_7 10_open.neu pink
+10c_8 10_open.neu pink
+10c_9 10_open.neu pink
+10d_1 10_open.neu cyan
+10d_10 10_closed.neu cyan
+10d_2 10_open.neu cyan
+10d_3 10_open.neu cyan
+10d_4 10_open.neu cyan
+10d_5 10_open.neu cyan
+10d_6 10_open.neu cyan
+10d_7 10_open.neu cyan
+10d_8 10_open.neu cyan
+10d_9 10_open.neu cyan
+CONNECTIONS
+10_10 10_9 e 0 0 axon.es N green
+10_10 10a_1 e 0 0 elsyn.es N red
+10_2 10_1 e 0 0 axon.es N green
+10_3 10_2 e 0 0 axon.es N green
+10_4 10_3 e 0 0 axon.es N green
+10_5 10_4 e 0 0 axon.es N green
+10_6 10_5 e 0 0 axon.es N green
+10_7 10_6 e 0 0 axon.es N green
+10_8 10_7 e 0 0 axon.es N green
+10_9 10_8 e 0 0 axon.es N green
+10a_1 10a_2 e 0 0 axon.es N gold
+10a_10 10b_1 e 0 0 elsyn.es N red
+10a_2 10a_3 e 0 0 axon.es N gold
+10a_3 10a_4 e 0 0 axon.es N gold
+10a_4 10a_5 e 0 0 axon.es N gold
+10a_5 10a_6 e 0 0 axon.es N gold
+10a_6 10a_7 e 0 0 axon.es N gold
+10a_7 10a_8 e 0 0 axon.es N gold
+10a_8 10a_9 e 0 0 axon.es N gold
+10a_9 10a_10 e 0 0 axon.es N gold
+10b_1 10b_2 e 0 0 axon.es N purple
+10b_10 10c_1 e 0 0 elsyn.es N red
+10b_2 10b_3 e 0 0 axon.es N purple
+10b_3 10b_4 e 0 0 axon.es N purple
+10b_4 10b_5 e 0 0 axon.es N purple
+10b_5 10b_6 e 0 0 axon.es N purple
+10b_6 10b_7 e 0 0 axon.es N purple
+10b_7 10b_8 e 0 0 axon.es N purple
+10b_8 10b_9 e 0 0 axon.es N purple
+10b_9 10b_10 e 0 0 axon.es N purple
+10c_1 10c_2 e 0 0 axon.es N pink
+10c_10 10d_1 e 0 0 elsyn.es N red
+10c_2 10c_3 e 0 0 axon.es N pink
+10c_3 10c_4 e 0 0 axon.es N pink
+10c_4 10c_5 e 0 0 axon.es N pink
+10c_5 10c_6 e 0 0 axon.es N pink
+10c_6 10c_7 e 0 0 axon.es N pink
+10c_7 10c_8 e 0 0 axon.es N pink
+10c_8 10c_9 e 0 0 axon.es N pink
+10c_9 10c_10 e 0 0 axon.es N pink
+10d_1 10d_2 e 0 0 axon.es N cyan
+10d_2 10d_3 e 0 0 axon.es N cyan
+10d_3 10d_4 e 0 0 axon.es N cyan
+10d_4 10d_5 e 0 0 axon.es N cyan
+10d_5 10d_6 e 0 0 axon.es N cyan
+10d_6 10d_7 e 0 0 axon.es N cyan
+10d_7 10d_8 e 0 0 axon.es N cyan
+10d_8 10d_9 e 0 0 axon.es N cyan
+10d_9 10d_10 e 0 0 axon.es N cyan

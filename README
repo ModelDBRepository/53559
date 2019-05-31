@@ -1,0 +1,101 @@
+README for model associated with the paper
+
+Moss BL, Fuller AD, Sahley CL, Burrell BD (2005) Serotonin 
+modulates axo-axonal coupling between neurons critical for learning
+in the leech. J Neurophys, accepted with minor revisions
+
+Abstract
+S cells form a chain of electrically coupled neurons that extends
+the length of the leech CNS and plays a critical role in 
+sensitization during whole-body shortening.  This process requires
+serotonin, which acts in part by altering the pattern of activity
+in the S cell network.  Lent (1982) observed serotonin-containing
+axons and varicosities in Faivre's nerve where the S-to-S cell 
+electrical synapses are located.  To determine whether serotonin
+modulates these synapses, S cell action potential (AP) propagation
+was studied in a two-ganglion chain containing one electrical 
+synapse.  Suction electrodes were placed on the cut ends of the
+connectives to stimulate one S cell while recording the other, 
+coupled S cell's APs.  A third electrode, placed en passant, 
+recorded the APs near the electrical synapse before they propagated
+through it.  Low concentrations of the gap junction inhibitor 
+octanol increased AP latency across the two-ganglion chain and this
+effect was localized to the region of axon containing the electrical
+synapse.  At higher concentrations, APs failed to propagate across
+the synapse.  Serotonin also increased AP latency across the
+electrical synapse, suggesting that serotonin reduced coupling
+between S cells.  This effect was independent of the direction of
+propagation and increased with the number of electrical synapses in
+progressively longer chains.  Furthermore, serotonin modulated 
+instantaneous AP frequency when APs were initiated in separate S 
+cells and in a computational model of S cell activity following 
+mechanosensory input.  Thus, serotonergic modulation of S cell 
+electrical synapses may contribute to changes in the pattern of
+activity in the S cell network.
+
+Model summary:
+
+It is a linear network of 5 electrically-coupled neurons.  The idea
+is to see whether a decrease in the gap junctional conductance 
+alters the pattern of action potentials in the network following
+simulated sensory input.  In order to generate the simulated data in 
+the paper (Fig. 10), one has to run the model with all of the 
+electrical synapses set to a "control" conductance value, and then 
+run it again with the "modulated" conductance values. The user can
+also choose whether to display the intracellular recording from the
+anterior or posterior end of the network.
+
+More details about the model and how to use it:
+
+The model is a linear network of five S cells connected by
+non-rectifying electrical synapses.  The five S cells are designated
+10-10a-10b-10c-10d.  Each cell consists of ten compartments (each
+compartment is designated cell #_compartment #) so the whole model looks
+like this:
+
+10_1-10_2-10_3-10_4-10_5-10_6-10_7-10_8-10_9-10_10---10a_1-10a_2-10a_3-
+10a_4-10a_5-10a_6-10a_7-10a_8-10a_9-10a_10---10b_1-1-0b_2-10b_3-10b_4-10
+b_5-10b_6-10b_7-10b_8-10b_9-10b_10---10c_1-1-0c_2-10c_3-10c_4-10c_5-10c_
+6-10c_7-10c_8-10c_9-10c_10---10d_1-1-0d_2-10d_3-10d_4-10d_5-10d_6-10d_7-
+10d_8-10d_9-10d_10
+
+-        Connections between compartments with each cell
+
+axon.es (g = 0.196)
+
+---     Electrical synapses between S cells
+
+     "Control" value:  elsyn.es (g = 0.098)
+
+"Modulated" value:  serelsyn.es (g = 0.064)
+
+
+In the default simulation, the model displays the intracellular
+recording from the anterior end of the network (compartment 10_1) and
+all four electrical synapses are set to the "control" conductance value
+(elsyn.es).
+
+To display the intracellular recording from the posterior end, the user
+must modify the simulation so that it displays the voltage from
+compartment 10d_10.  To do this: load the simulation, go to Graphic
+Output and select Modify (this opens cable_10.ous), click on the single
+entry in the Variables list on the right, select Modify, select
+V[10d_10...]<ivr from the pull down list.   The simulation must then be
+re-loaded.
+
+To change the conductance of the electrical synapses to the "modulated"
+values, one can modify each electrical synapse in the network so that it
+is uses serelsyn.es rather than elsyn.es.  This is fairly tedious, so an
+easier way is to simply open elsyn.es and change the values of g1 and g2
+from 0.098 to 0.064.  To do this, go to Edit Formula, click on the es
+box, open elsyn.es, click on the shaded g1 and g2 variables to change
+the values.  Again, the simulation must be re-loaded.
+
+Note: recall that SNNAP requires that parent directories have no spaces
+in the folder names, e.g. on windows install this zip archive in a 
+directory like C:\nrnmodels rather than under 
+c:\Documents and Settings\.
+(has spaces in the name)
+
+Thanks to the people who made SNNAP possible (see contributors at):
+http://snnap.uth.tmc.edu/
